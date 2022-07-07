@@ -1,5 +1,4 @@
 SOURCES += \
-    $$PWD/asc_common.cpp \
     $$PWD/casc.cpp \
     $$PWD/cascabout.cpp \
     $$PWD/cascbase.cpp \
